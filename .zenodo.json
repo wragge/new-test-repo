@@ -1,0 +1,42 @@
+{
+    "language": "eng",
+    "license": "MIT",
+    "title": "wragge/new-test-repo",
+    "related_identifiers": [
+      {
+        "scheme": "url",
+        "identifier": "https://github.com/wragge/new-test-repo/tree/v0.0.0",
+        "relation": "isDerivedFrom",
+        "resource_type": "software"
+      },
+      {
+        "scheme": "url",
+        "identifier": "https://glam-workbench.net/a-very-cool-museum/",
+        "relation": "isDocumentedBy",
+        "resource_type": "publication-softwaredocumentation"
+      },
+      {
+        "scheme": "url",
+        "identifier": "https://glam-workbench.net/",
+        "relation": "isPartOf",
+        "resource_type": "other"
+      }
+    ],
+    "version": "v0.0.0",
+    "upload_type": "software",
+    "keywords": [
+      "digital humanities",
+      "Jupyter",
+      "GLAM Workbench"
+    ],
+    "publication_date": "2023-08-24",
+    "creators": [
+    {
+        "name": "Sherratt, Tim",
+        "orcid": "http://orcid.org/0000-0001-7956-4498"
+    }
+],
+    "access_right": "open",
+    "description": ""
+  }
+  

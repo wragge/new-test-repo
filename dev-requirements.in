@@ -1,0 +1,12 @@
+-c requirements.txt
+pytest
+nbval
+black[jupyter]
+isort
+flake8
+nbqa
+pre-commit
+rocrate
+giturlparse
+requests
+python-dotenv
